@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODE, SQL
+- 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, SQL
 - 📫 How to reach me: thainara.marques.profissional@gmail.com
 
 <br><br>
