@@ -1,23 +1,62 @@
-### Olá, 👋 eu sou Thainara Marques 
+<!-- Banner ou frase de destaque -->
+# 👋 Olá, eu sou a Thainara!
 
-<!--
-**thainaramarquess/thainaramarquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedora de Software | Full Stack**  
+🎓 **Formada em Ciência da Computação**  
+🚀 +4 anos criando sistemas, APIs e automações que geram impacto real.
 
-Here are some ideas to get you started:
--->
+---
 
-- 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, SQL
-- 📫 How to reach me: thainara.marques.profissional@gmail.com
+# 🚀 Minhas Tecnologias
 
-<br><br>
+## 🔧 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 🛠 &nbsp;Tech Stack
+## 🎨 Frontend & Mobile
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+## 🗄️ Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-<br><br>
+---
+
+# ✨ Sobre mim
+🌟 Apaixonada por tecnologia  
+⚙️ Foco em arquitetura, boas práticas e automação  
+🧠 Sempre aprendendo e criando soluções eficientes  
+🎨 Interfaces modernas e alto desempenho  
+
+---
+## 🚀 O que eu entrego
+- ✅ Sistemas completos, robustos e escaláveis  
+- 🔐 APIs bem estruturadas e documentadas  
+- 🤖 Automação de processos  
+- 🔌 Integração entre serviços  
+- 🖥️ Interfaces modernas e performáticas  
+- 🧼 Código limpo, testes e boas práticas
+    
+---
+
+# 📫 Como me encontrar
+🔗 **LinkedIn:** www.linkedin.com/in/thainara-marques-da-costa-73a526237 
+
+📩 **E-mail:** thainaradev@gmail.com
+
+---
+
+⭐ *Obrigada por visitar meu perfil*
